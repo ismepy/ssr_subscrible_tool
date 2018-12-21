@@ -1,9 +1,13 @@
 # 节点列表
 
-# CN2 GIA
+# BWG
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzExNDNANjcuMjMwLjE4MS4yMDU6MjM0NQ==#BWG+cn2gia
+
+# Anynode
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzExNDNANjkuODUuOTMuMjA3OjIzNDU=#Anynode+cn2gia+NETFLIX
 
 # AWS
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzExNDNANTQuMTY5LjM0LjczOjIzNDU=#AWS+SG+NETFLIX
