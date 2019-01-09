@@ -1,7 +1,7 @@
 # 节点列表
 
 # BWG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzExNDNANjcuMjMwLjE4MS4yMDU6NTIwMzM=#Bwg-cn2gia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzExNDNANjcuMjMwLjE4MS4yMDU6NTIwMzM=#Bwg
 
 # Anynode
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzExNDNAMjE2LjEyNi4yMzYuMTExOjUyMDMz#Anynode
